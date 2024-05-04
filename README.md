@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed:
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/HikuruOfficial/ton-hikuru-occasion
+git clone https://github.com/HikuruOfficial/ton-hikuru-occasion.git
 cd ton-hikuru-occasion
 npm install
 ```
